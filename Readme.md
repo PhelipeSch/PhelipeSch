@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Creating bugs since 2024<br> Goals: Study TADS</p>
+<p align="left">Creating bugs since 2024<br> Goals: Study Software Engenring</p>
 
 ###
 
